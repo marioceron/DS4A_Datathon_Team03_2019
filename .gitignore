@@ -25,6 +25,8 @@
 **/.DS_Store
 .DS_Store
 .Dataset
+**/.Dataset
+**/Dataset
 ## Latext extensions
 
 
