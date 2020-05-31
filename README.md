@@ -2,7 +2,7 @@
 
 
 
-Johnathan Salamanca, Mario Cerón, Carol Martinez, Javier Cocunubo, Jairo Niño, Alvaro Muñoz
+Mario Cerón, Johnathan Salamanca, Carol Martinez, Javier Cocunubo, Jairo Niño, Alvaro Muñoz
 
 #Repositories: 
 
@@ -52,3 +52,9 @@ demographics,weather,geographic,zones,uber_trips_2015,uber_trips_2014,green_trip
 Animated Gif with the presentation:
 
 ![Datathon Presentation](presentation/Datathon_presentation.gif)
+
+
+
+
+
+![ER relationship Model Datathon](ER_Model_Data_Schema/Modelo_ER_Datathon.jpg)
