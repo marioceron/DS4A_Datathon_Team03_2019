@@ -35,4 +35,8 @@ https://github.com/jssalamanca1967/ds4a_datathon_group03/
 # /root files: 
 * Source code of jupyter notebook per each analysis.
 
+# Presentation :
+
+Animated Gif with the presentation:
+
 ![Datathon Presentation](presentation/Datathon_presentation.gif)
