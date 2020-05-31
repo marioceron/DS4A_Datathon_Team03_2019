@@ -10,6 +10,17 @@ https://github.com/marioceron/DS4A_Datathon_Team03_2019/
 
 https://github.com/jssalamanca1967/ds4a_datathon_group03/
 
+# Introduction: 
+
+Analyze the New York City Uber trip data, potentially in combination with supplementary datasets, in order to increase understanding of how developments in the NYC for hire transport industry relate to broader trends in the public and private transportation industries at large.  Trip data is available, including data from green boro taxis, yellow medallion taxis, and NYC subway turnstiles. We also provide demographic info on age and income, geographic data for the Neighborhood Tabulation Areas (NTAs) of NYC, and daily weather data for NYC.
+
+The project is ask a question and answer it using the available datasets. The importannace of creativity of ther question and the quality of the data analysis. It is not required to be comprehensive; depth of insight is more important over breadth of the question posed.
+
+Datasets: 
+
+The provided datasets are spread across nine tables as follows:
+demographics,weather,geographic,zones,uber_trips_2015,uber_trips_2014,green_trips_new,mta_trips,yellow_trips_new
+
 # Folders:
 
 # /code
@@ -17,6 +28,7 @@ https://github.com/jssalamanca1967/ds4a_datathon_group03/
 
 # /Dataset: 
 * Parquet files for dataset of weather
+
 
 # /ER_Model_Data_Schema: 
 * Entity Relationship Model for Database ER
