@@ -60,9 +60,9 @@ Animated Gif with the presentation:
 
 ![ER relationship Model Datathon](ER_Model_Data_Schema/Modelo_ER_Datathon.jpg)
 
-# Jupyter Notebook with Results:
+# Jupyter Notebook with Results in PDF:
 
-https://github.com/marioceron/DS4A_Datathon_Team03_2019/blob/master/Results/Models_Demographics.html
+https://github.com/marioceron/DS4A_Datathon_Team03_2019/blob/master/Results/1_ReadingCleaning_Demographics.pdf
 
 # Final Report:
 
