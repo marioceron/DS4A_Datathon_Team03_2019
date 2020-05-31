@@ -1,6 +1,6 @@
 # DS4A_Datathon_Team03_2019:  Datathon Group 3: December 2019
 
-Mapa Integrado Información de Riesgo - Integrated Risk Information Map:
+
 
 Johnathan Salamanca, Mario Cerón, Carol Martinez, Javier Cocunubo, Jairo Niño, Alvaro Muñoz
 
