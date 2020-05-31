@@ -1,4 +1,4 @@
-# ds4a_datathon_group03
+# DS4A_Datathon_Team03_2019:
 
 # Datathon Group 3: December 2019
 
@@ -6,8 +6,10 @@ Mapa Integrado Información de Riesgo
 
 Johnathan Salamanca, Mario Cerón, Carol Martinez, Javier Cocunubo, Jairo Niño, Alvaro Muñoz
 
-#Repository: 
+#Repositories: 
+
 https://github.com/marioceron/DS4A_Datathon_Team03_2019/
+
 https://github.com/jssalamanca1967/ds4a_datathon_group03/
 
 # Folders:
