@@ -56,6 +56,14 @@ Animated Gif with the presentation:
 
 
 
-Entity Relationsip (ER) Model - Datathon:
+# Entity Relationsip (ER) Model - Datathon:
 
 ![ER relationship Model Datathon](ER_Model_Data_Schema/Modelo_ER_Datathon.jpg)
+
+# Jupyter Notebook with Results:
+
+https://github.com/marioceron/DS4A_Datathon_Team03_2019/blob/master/Results/Models_Demographics.html
+
+# Final Report:
+
+https://github.com/marioceron/DS4A_Datathon_Team03_2019/blob/master/latexDocuments/datathon/datathon_Final_team03.pdf
